@@ -3,8 +3,9 @@ Task 1 - cohort identification code.  Contains original scripts creating initial
 
 # Paper:
 [Hybrid bag of approaches to characterize selection criteria for cohort identification](https://pubmed.ncbi.nlm.nih.gov/31197354/)
+
 Contributors:
-V G Vinod Vydiswaran <sup>1 2</sup>, Asher Strayhorn 1, Xinyan Zhao 2, Phil Robinson 2, Mahesh Agarwal 3, Erin Bagazinski 2, Madia Essiet 2, Bradley E Iott 2, Hyeon Joo 2, PingJui Ko 2, Dahee Lee 2, Jin Xiu Lu 2, Jinghui Liu 2, Adharsh Murali 2, Koki Sasagawa 2, Tianshi Wang 2, Nalingna Yuan
+V G Vinod Vydiswaran <sup>1 2</sup>, Asher Strayhorn <sup>1</sup>, Xinyan Zhao <sup>2</sup>, Phil Robinson <sup>2</sup>, Mahesh Agarwal <sup>3</sup>, Erin Bagazinski <sup>2</sup>, Madia Essiet <sup>2</sup>, Bradley E Iott <sup>2</sup>, Hyeon Joo <sup>2</sup>, PingJui Ko <sup>2</sup>, Dahee Lee <sup>2</sup>, Jin Xiu Lu <sup>2</sup>, Jinghui Liu <sup>2</sup>, Adharsh Murali <sup>2</sup>, Koki Sasagawa <sup>2</sup>, Tianshi Wang <sup>2</sup>, Nalingna Yuan<sup>2</sup>
 1 Department of Learning Health Sciences, University of Michigan, Ann Arbor, Michigan, USA.
 2 School of Information, University of Michigan, Ann Arbor, Michigan, USA.
 3 Department of Mathematics and Statistics, College of Arts, Sciences, and Letters, University of Michigan-Dearborn, Dearborn, Michigan, USA.
